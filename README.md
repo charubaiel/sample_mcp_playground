@@ -3,5 +3,5 @@
 ### init
 ```python
 uv sync
-uv run mcp_server.py # 7860 default port
+uv run clients/mcp_server.py # 7860 default port
 ```
